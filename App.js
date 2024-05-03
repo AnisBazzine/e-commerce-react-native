@@ -8,9 +8,9 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar style="dark" />
-      {/* <Splash /> */}
-      {/* <MenOrWomen /> */}
-      <SingMethod />
+      
+      <MenOrWomen /> 
+      
     </SafeAreaView>
   );
 }
